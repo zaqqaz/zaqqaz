@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![hey](https://user-images.githubusercontent.com/2823336/87935945-e9333900-ca89-11ea-99e5-04497bb9119a.jpg)
+![gh](https://user-images.githubusercontent.com/2823336/87943854-85633d00-ca96-11ea-8df4-1d29b77ab2b2.png)
 
 <!--
 **zaqqaz/zaqqaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
