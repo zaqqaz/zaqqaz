@@ -1,16 +1,14 @@
-![gh](https://user-images.githubusercontent.com/2823336/87943854-85633d00-ca96-11ea-8df4-1d29b77ab2b2.png)
+👋 Hey there!
 
-<!--
-**zaqqaz/zaqqaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Denis \
+Prinipal engineer at [DAZN](https://dazn.com/) \
+public speaker and open source contributor \
+from Minsk 🇧🇾 \
+now based in London 🇬🇧.
 
-Here are some ideas to get you started:
+📹 Some of my talks:  
+- 👨‍🚀 [Infrastructure as Code for React Application on AWS Written in TypeScript](https://www.youtube.com/watch?v=sbZn5RCITMo) [eng]
+- 🖼️ [Fast and robust visual unit tests for your React application](https://www.youtube.com/watch?v=vHnCGTV08Os) [eng]
+- 🏎️ [Evolution of Web Performance](https://www.youtube.com/watch?v=gNw1g_yib4Q) [rus]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Nice to meet you!**
