@@ -1,10 +1,9 @@
 👋 Hey there!
 
 I'm Denis \
-Prinipal engineer at [DAZN](https://dazn.com/) \
+Principal engineer at [DAZN](https://dazn.com/) \
 public speaker and open source contributor \
-from Minsk 🇧🇾 \
-now based in London 🇬🇧.
+based in London 🇬🇧.
 
 📹 Some of my talks:  
 - 🍿 [React Microfrontend Applications for TVs and Game Consoles](https://portal.gitnation.org/contents/react-microfrontend-applications-for-tvs-and-game-consoles) [eng]
