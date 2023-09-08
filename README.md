@@ -1,7 +1,7 @@
 👋 Hey there!
 
 I'm Denis \
-Head of engineering at [DAZN](https://dazn.com/) \
+Head of Engineering at [DAZN](https://dazn.com/) \
 public speaker and open source contributor \
 based in London 🇬🇧.
 
